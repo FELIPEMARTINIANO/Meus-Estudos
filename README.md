@@ -1,5 +1,5 @@
 # Meus Estudos
- Aprendendo tecnologias de frontend/beckend
+ Aprendendo tecnologias de frontend/backend
 
  **Html**
  **CSS**
